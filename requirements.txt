@@ -1,2 +1,2 @@
-spleeter
+spleeter==1.5.0
 Flask
