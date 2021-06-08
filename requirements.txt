@@ -1,4 +1,1 @@
-spleeter==1.5.3
-SoundFile
-Flask
-numpy==1.19.5
+deeppavlov
